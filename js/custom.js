@@ -20,8 +20,8 @@ $('.hqr_wrapper .owl-carousel').owlCarousel({
     center:true,
     margin:10,
     nav:true,
-    autoplay:false,
-    autoplayTimeout:1000,
+    autoplay:true,
+    autoplayTimeout:3000,
     autoplayHoverPause:true,
     responsive:{
         0:{
